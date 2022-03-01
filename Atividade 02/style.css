@@ -1,0 +1,38 @@
+p{
+	color: black;
+	font-size: 14px;
+	font-family:arial;
+	padding: 10px;
+}
+
+*{
+	margin: 0;
+	padding: 0;
+	font-family: Arial;
+}
+
+header{
+	background-color: rgb(151, 26, 151);
+	
+	padding: 10px;
+	text-align: center;
+	color: white;
+	font-family: "Helvetica",arial;
+	font-size: 24px;
+	margin-bottom: 10px;
+	font-weight: bold;
+}
+
+footer{
+	background-color: white;
+	height: 25px;
+text-align: center;
+padding: 10px;
+}
+
+h1{
+	color: black;
+	text-align:white;
+	font-size: 19px;
+	padding: 10px;
+}
